@@ -56,15 +56,14 @@ Gra powinna się uruchomić w nowym oknie.
 - **Kolizja z Duchem**: Utrata jednego życia (masz 3 życia)
 - **Koniec Gry**: Następuje po utracie wszystkich żyć lub zebraniu wszystkich punktów
 
-
 ## Charakterystyka Duchów
 
-| Duch | Kolor | Zachowanie |
-|------|-------|-----------|
-| Blinky | Czerwony | Ściga Pac-Mana bezpośrednio |
-| Pinky | Różowy | Ściga Pac-Mana z przesunięciem |
-| Inky | Niebieski | Próba flankowania |
-| Clyde | Pomarańczowy | Losowe poruszanie |
+| Duch    | Kolor        | Zachowanie |
+|---------|--------------|------------|
+| Blinky  | Czerwony     | Zawsze bezpośrednio ściga Pac-Mana, ustawiając cel na jego aktualnej pozycji (najbardziej agresywny duch). |
+| Pinky   | Różowy       | Przewiduje ruch Pac-Mana – celuje w pole oddalone o 2 kratki w kierunku aktualnego ruchu Pac-Mana. |
+| Inky    | Niebieski    | Duch taktyczny – wyznacza punkt 2 kratki przed Pac-Manem, a następnie tworzy wektor od Blinky’ego do tego punktu i podwaja go, próbując flankować gracza. |
+| Clyde   | Pomarańczowy | Zachowuje się nieprzewidywalnie – ściga Pac-Mana tylko gdy jest dalej niż 8 pól, w przeciwnym razie ucieka do swojego rogu planszy. |
 
 ## Autorzy:
 
