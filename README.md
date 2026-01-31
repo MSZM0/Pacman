@@ -1,5 +1,5 @@
 # Pac-Man 🎮
-
+https://github.com/MSZM0/Pacman
 ## Opis Projektu
 
 Pac-Man to klasyczna gra zręcznościowa zbudowana w Javie z wykorzystaniem biblioteki Swing. Gra łączy elementy strategii i refleksu, gdzie gracz musi zbierać punkty na mapie, unikając duchów, które go ścigają.
@@ -69,4 +69,5 @@ Gra powinna się uruchomić w nowym oknie.
 ## Autorzy:
 
 Bartosz Hesse
+
 Marcin Słowikowski
