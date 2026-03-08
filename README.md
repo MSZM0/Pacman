@@ -71,7 +71,5 @@ Gra powinna się uruchomić w nowym oknie.
 | Clyde   | Pomarańczowy | Zachowuje się nieprzewidywalnie – ściga Pac-Mana tylko gdy jest dalej niż 8 pól, w przeciwnym razie ucieka do swojego rogu planszy. |
 
 ## Autorzy:
-
-Bartosz Hesse
-
-Marcin Słowikowski
+- Bartosz Hesse (https://github.com/BartoszHesse)
+- Marcin Słowikowski (https://github.com/MSZM0)
