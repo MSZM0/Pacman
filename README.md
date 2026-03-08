@@ -11,7 +11,7 @@ Pac-Man to klasyczna gra zręcznościowa zbudowana w Javie z wykorzystaniem bibl
 
 ### Główne Cechy:
 - 🎯 Zbieranie punktów i power-upów
-- 👻 Cztery duchy z różnymi strategiami AI
+- 👻 Cztery duchy z różnymi strategiami
 - ⭐ System trzech żyć
 - 🚀 Tryb pauzy oraz menu główne
 - 🎨 Animacje i grafika w stylu retro
@@ -57,7 +57,7 @@ Gra powinna się uruchomić w nowym oknie.
 ### Zasady
 - **Zbieranie Punktów**: Każda mała kropka = 10 punktów
 - **Wzmocnienie (Power-up)**: Każde wzmocnienie = 50 punktów + możliwość jedzenia duchów
-- **Jedzenie Ducha**: 200+ punktów (wartość wzrasta z każdym zjedzonym duchem +200)
+- **Jedzenie Ducha**: 200+ punktów (wartość wzrasta o 200 z każdym zjedzonym duchem w ramach jednego power-up'a)
 - **Kolizja z Duchem**: Utrata jednego życia (masz 3 życia)
 - **Koniec Gry**: Następuje po utracie wszystkich żyć lub zebraniu wszystkich punktów
 
